@@ -1,0 +1,4 @@
+rootProject.name="micronaut-introspection-library"
+
+include "core"
+include "app"
