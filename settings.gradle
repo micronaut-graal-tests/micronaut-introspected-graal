@@ -1,4 +1,4 @@
-rootProject.name="micronaut-introspection-library"
+rootProject.name="micronaut-introspected-graal"
 
 include "core"
 include "app"
