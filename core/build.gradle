@@ -21,3 +21,8 @@ dependencies {
     api "io.micronaut:micronaut-core"
     api "javax.validation:validation-api"
 }
+
+java {
+    sourceCompatibility = JavaVersion.toVersion('1.8')
+    targetCompatibility = JavaVersion.toVersion('1.8')
+}
