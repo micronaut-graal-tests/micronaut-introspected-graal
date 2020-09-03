@@ -1,11 +1,3 @@
 # Micronaut Introspection with Library app #
 
-Test application for Micronaut GraalVM that test bean introspection:
-
-- It has a `core` subproject with a POJO annotated with `@Introspected` and `@JsonInclude(JsonInclude.Include.NON_NULL)`
-- An application `app` that uses the POJO.
-
-
-```
-curl localhost:8080/books
-```
+:warning: **The master branch is not used anymore**. Checkout branches for each specific Micronaut minor version: `2.1.x`, `2.0.x`, `1.3.x`,...

@@ -1,4 +1,0 @@
-rootProject.name="micronaut-introspected-graal"
-
-include "core"
-include "app"
