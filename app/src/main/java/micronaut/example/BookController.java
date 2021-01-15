@@ -1,4 +1,4 @@
-package example.micronaut;
+package micronaut.example;
 
 import example.micronaut.pojo.Book;
 import io.micronaut.http.annotation.Controller;
