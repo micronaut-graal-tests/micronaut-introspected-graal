@@ -42,4 +42,5 @@ java {
 
 nativeImage {
     imageName("introspected")
+    args = ["-H:+StaticExecutableWithDynamicLibC"]
 }
