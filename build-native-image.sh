@@ -1,4 +1,4 @@
 #!/bin/bash
 
-./gradlew app:nativeImage
-cp app/build/native-image/introspected .
+./gradlew app:nativeCompile
+cp app/build/native/nativeCompile/introspected .
